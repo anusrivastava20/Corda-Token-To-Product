@@ -5,67 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2118da98-a0fd-4e87-a474-bf36e14913c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LICENCE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TRADEMARK" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/build/libs/client-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/build/tmp/jar/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/logs/archive/node-inlen8520094431.2023-06-22-1.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/logs/archive/node-inlen8520094431.2023-06-26-1.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/main/java/net/corda/samples/tokentoproduct/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/main/java/net/corda/samples/tokentoproduct/webserver/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/main/java/net/corda/samples/tokentoproduct/webserver/Entity/AddCurrency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/main/java/net/corda/samples/tokentoproduct/webserver/Entity/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/main/java/net/corda/samples/tokentoproduct/webserver/NodeRPCConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/main/java/net/corda/samples/tokentoproduct/webserver/Starter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/main/webapp/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/main/webapp/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/main/webapp/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/main/webapp/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/main/webapp/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/main/webapp/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/main/webapp/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/main/webapp/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/main/webapp/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/main/webapp/src/component/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/main/webapp/src/component/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/main/webapp/src/component/retrieveToken.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/main/webapp/src/component/santaGameCreated.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/main/webapp/src/css/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/main/webapp/src/img/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/main/webapp/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/main/webapp/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/main/webapp/src/reportWebVitals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/main/webapp/src/setupTests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/dev/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/test/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contracts/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contracts/logs/archive/node-inlen8520094431.2023-06-22-1.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contracts/logs/archive/node-inlen8520094431.2023-06-26-1.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contracts/logs/node-inlen8520094431.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contracts/src/main/java/net/corda/samples/tokentoproduct/contracts/ProductContract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contracts/src/main/java/net/corda/samples/tokentoproduct/states/ProductState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contracts/src/test/java/net/corda/samples/tokentoproduct/contracts/ContractTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contracts/src/test/java/net/corda/samples/tokentoproduct/contracts/StateTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/node-inlen8520094431.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workflows/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workflows/logs/node-inlen8520094431.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workflows/src/integrationTest/java/net/corda/samples/tokentoproduct/DriverBasedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workflows/src/main/java/net/corda/samples/tokentoproduct/flows/FiatCurrencyIssueFlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workflows/src/main/java/net/corda/samples/tokentoproduct/flows/ProductSaleInitiatorFlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workflows/src/main/java/net/corda/samples/tokentoproduct/flows/ProductSaleResponderFlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workflows/src/main/java/net/corda/samples/tokentoproduct/flows/ProductTokenCreateAndIssueFlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workflows/src/main/java/net/corda/samples/tokentoproduct/flows/UtilityFlows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workflows/src/test/java/net/corda/samples/tokentoproduct/FlowTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +17,18 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -91,7 +44,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/ANUPRSRI/IdeaProjects/corda/asst1/tokentoproduct"
+    "last_opened_file_path": "C:/Users/ANUPRSRI/IdeaProjects/corda/asst1/Corda-Token-To-Product"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
